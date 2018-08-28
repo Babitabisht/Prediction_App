@@ -1,0 +1,66 @@
+[
+  {
+    "text": "my unit test failed",
+    "category": "software"
+  },
+  {
+    "text": "tried the program but it was buggy",
+    "category": "software"
+  },
+  {
+    "text": "I need a new power supply",
+    "category": "hardware"
+  },
+  {
+    "text": "The Drive has a new Power supply",
+    "category": "hardware"
+  },
+  {
+    "text": "Unit Tests",
+    "category": "software"
+  },
+  {
+    "text": "RAM size is 4 gb",
+    "category": "hardware"
+  },
+  {
+    "text": "speakers are awesome",
+    "category": "hardware"
+  },
+  {
+    "text": "SMPS is working fine",
+    "category": "hardware"
+  },
+  {
+    "text": "spreadsheet has been prepared",
+    "category": "software"
+  },
+  {
+    "text": "ms access is a good utility software",
+    "category": "software"
+  },
+  {
+    "text": "code",
+    "category": "software"
+  },
+  {
+    "text": "programming",
+    "category": "software"
+  },
+  {
+    "text": "languages",
+    "category": "software"
+  },
+  {
+    "text": "RAM",
+    "category": "hardware"
+  },
+  {
+    "text": "gb",
+    "category": "hardware"
+  },
+  {
+    "text": "graphic card is of  4 gb",
+    "category": "hardware"
+  }
+]
